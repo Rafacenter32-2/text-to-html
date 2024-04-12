@@ -1,5 +1,5 @@
 # text-to-html
-Este codigo transforma texto normal em texto html pois os enter é <br> e o titulo é diferente do resto
+Este codigo transforma texto normal em texto html pois os enter <br> e o titulo é diferente do resto
 
 em python voce usa \n para nova linhas e ele adiciona altomaticamente se voce ta tirando de um txt
 <html>
